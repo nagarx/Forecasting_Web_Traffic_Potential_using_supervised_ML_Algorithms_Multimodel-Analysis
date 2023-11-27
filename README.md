@@ -1,4 +1,4 @@
-# Forecasting Web Traffic Potential: An End-to-End Machine Learning Approach
+# Forecasting Web Traffic Potential using supervised ML Algorithms (Multimodel-Analysis)
 
 ## Introduction
 
