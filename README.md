@@ -1,4 +1,4 @@
-# Traffic Potential Forecasting: End-to-End ML Project
+# Forecasting Web Traffic Potential: An End-to-End Machine Learning Approach
 
 ## Introduction
 
